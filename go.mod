@@ -1,1 +1,1 @@
-module "https://github.com/chapin666/webrtc.git"
+module github.com/chapin666/webrtc
